@@ -1,3 +1,5 @@
 apple
-banana
+strawberry
 orange
+tomatoe
+green apple
